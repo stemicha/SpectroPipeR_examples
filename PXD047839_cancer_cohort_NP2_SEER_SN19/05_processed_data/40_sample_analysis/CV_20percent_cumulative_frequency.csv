@@ -1,0 +1,5 @@
+R.Condition,cumulative frequency,CV_cut,level,cumulative frequency proportion
+cancer,88,0.2,peptide level,0.0021077844311377246
+control,183,0.2,peptide level,0.004383233532934132
+cancer,388,0.2,protein level,0.09253517767708085
+control,604,0.2,protein level,0.14404960648700216

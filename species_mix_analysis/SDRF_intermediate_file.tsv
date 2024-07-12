@@ -1,0 +1,9 @@
+source name	comment[biological replicate]	comment[instrument]	comment[data file]	comment[MS1 analyzer type]	comment[MS2 analyzer type]	technology type	comment[label]	comment[fraction identifier]
+HYE mix A__1	1	Orbitrap Exploris Slot #176	20230224_Exp_SM_MethMS_OT2_MixA_TR1.raw	Orbitrap	Orbitrap	proteomic profiling by mass spectrometry	label free sample	1
+HYE mix A__2	2	Orbitrap Exploris Slot #176	20230224_Exp_SM_MethMS_OT2_MixA_TR2.raw	Orbitrap	Orbitrap	proteomic profiling by mass spectrometry	label free sample	1
+HYE mix A__3	3	Orbitrap Exploris Slot #176	20230224_Exp_SM_MethMS_OT2_MixA_TR3.raw	Orbitrap	Orbitrap	proteomic profiling by mass spectrometry	label free sample	1
+HYE mix A__4	4	Orbitrap Exploris Slot #176	20230224_Exp_SM_MethMS_OT2_MixA_TR4.raw	Orbitrap	Orbitrap	proteomic profiling by mass spectrometry	label free sample	1
+HYE mix B__1	1	Orbitrap Exploris Slot #176	20230224_Exp_SM_MethMS_OT2_MixB_TR1.raw	Orbitrap	Orbitrap	proteomic profiling by mass spectrometry	label free sample	1
+HYE mix B__2	2	Orbitrap Exploris Slot #176	20230224_Exp_SM_MethMS_OT2_MixB_TR2.raw	Orbitrap	Orbitrap	proteomic profiling by mass spectrometry	label free sample	1
+HYE mix B__3	3	Orbitrap Exploris Slot #176	20230224_Exp_SM_MethMS_OT2_MixB_TR3.raw	Orbitrap	Orbitrap	proteomic profiling by mass spectrometry	label free sample	1
+HYE mix B__4	4	Orbitrap Exploris Slot #176	20230224_Exp_SM_MethMS_OT2_MixB_TR4.raw	Orbitrap	Orbitrap	proteomic profiling by mass spectrometry	label free sample	1

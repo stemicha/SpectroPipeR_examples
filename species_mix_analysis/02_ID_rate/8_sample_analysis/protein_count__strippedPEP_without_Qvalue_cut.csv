@@ -1,0 +1,17 @@
+R.FileName,R.Condition,R.Replicate,protein_count,number_of_peptides
+20230224_Exp...S_OT2_MixA_TR1,HYE mix A,1,1166,< 2
+20230224_Exp...S_OT2_MixA_TR2,HYE mix A,2,1166,< 2
+20230224_Exp...S_OT2_MixA_TR3,HYE mix A,3,1166,< 2
+20230224_Exp...S_OT2_MixA_TR4,HYE mix A,4,1166,< 2
+20230224_Exp...S_OT2_MixB_TR1,HYE mix B,1,1166,< 2
+20230224_Exp...S_OT2_MixB_TR2,HYE mix B,2,1166,< 2
+20230224_Exp...S_OT2_MixB_TR3,HYE mix B,3,1166,< 2
+20230224_Exp...S_OT2_MixB_TR4,HYE mix B,4,1166,< 2
+20230224_Exp...S_OT2_MixA_TR1,HYE mix A,1,9587,>= 2
+20230224_Exp...S_OT2_MixA_TR2,HYE mix A,2,9587,>= 2
+20230224_Exp...S_OT2_MixA_TR3,HYE mix A,3,9587,>= 2
+20230224_Exp...S_OT2_MixA_TR4,HYE mix A,4,9587,>= 2
+20230224_Exp...S_OT2_MixB_TR1,HYE mix B,1,9587,>= 2
+20230224_Exp...S_OT2_MixB_TR2,HYE mix B,2,9587,>= 2
+20230224_Exp...S_OT2_MixB_TR3,HYE mix B,3,9587,>= 2
+20230224_Exp...S_OT2_MixB_TR4,HYE mix B,4,9587,>= 2
