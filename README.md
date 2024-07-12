@@ -22,7 +22,7 @@ The analysis with SpectroPipeR was performed using default parameters.
 
 <u>analysis outputs can be found inside:</u> `species_mix_analysis` folder
 
-<u>exemplary html report:</u> [species mix report](species_mix_analysis/2024_07_11__11_35_SpectroPipeR_report.html)
+<u>exemplary html report:</u> [species mix report](https://stemicha.github.io/SpectroPipeR_examples/species_mix_analysis__2024_07_11__15_06_SpectroPipeR_report.html)
 
 <u>additional species mix plot panel + script:</u> `species_mix_analysis.R`
 
@@ -57,7 +57,7 @@ The analysis with SpectroPipeR was performed using default parameters.
 
 <u>analysis outputs can be found inside:</u> `PXD047839_cancer_cohort_NP2_SEER_SN19` folder
 
-<u>exemplary html report:</u> [PXD047839 - cancer cohort - NP2 - SEER](PXD047839_cancer_cohort_NP2_SEER_SN19/2024_07_11__11_35_SpectroPipeR_report.html)
+<u>exemplary html report:</u> [PXD047839 - cancer cohort - NP2 - SEER](https://stemicha.github.io/SpectroPipeR_examples/PXD047839_cancer_cohort_NP2_SEER_SN19__2024_07_11__11_35_SpectroPipeR_report.html)
 
 #### exemplary protein canditdate XIC plot using SpectroPipeR
 
