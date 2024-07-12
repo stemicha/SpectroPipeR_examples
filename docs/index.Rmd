@@ -1,0 +1,18 @@
+---
+title: "SpectroPipeR examples"
+author: "Stephan Michalik"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+| SpectroPipeR examples  |
+|-------------------------------------------------|
+|[PXD047839 cancer cohort NP2 SEER SN19](PXD047839_cancer_cohort_NP2_SEER_SN19__2024_07_11__11_35_SpectroPipeR_report.html) | 
+|[HYE species mix analysis](species_mix_analysis__2024_07_11__15_06_SpectroPipeR_report.html) |
