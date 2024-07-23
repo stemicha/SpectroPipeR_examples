@@ -8,7 +8,7 @@
 # load libraries ----------------------------------------------------------
 library(SpectroPipeR)
 library(ggrepel)
-library(tidyvserse)
+library(tidyverse)
 library(ggh4x)
 library(scales)
 library(ggrepel)
@@ -330,6 +330,7 @@ significant_count <- ggplot(stats_global_final_counts %>%
   # global ID count
   geom_label(
     data = stats_global_final_counts %>% 
+      filter(passed_threshold==1) %>% 
       summarise(count = sum(count)),
     mapping = aes(x = 1, count, label = count),
     size = 5, inherit.aes = F, hjust = -0.2
@@ -349,15 +350,15 @@ significant_count <- ggplot(stats_global_final_counts %>%
     plot.tag = element_text(size = plot_tag_param, face = "bold")
   )+
   labs(title = "count of protein groups passing thresholds",
-    #subtitle = paste("**thresholds:**<br>
-    #                 *E.coli* (theo. FC = -4): FC ≤", 1/(2^Ecoli_threshold)*-1," & q-value ≤",q_value_threshold,"<br>",
-    #                 "*H.sapiens* (theo. FC = 1): abs. FC <", (2^human_threshold)," & q-value >",q_value_threshold,"<br>",
-    #                 "*S.cerevisiea* (theo. FC = 2): abs. FC ≥", (2^yeast_threshold)," & q-value ≤",q_value_threshold,
-    #                 ""),
-    y = "PG count passing thresholds",
-    fill = "",
-    x = "",
-    tag = "")+
+       #subtitle = paste("**thresholds:**<br>
+       #                 *E.coli* (theo. FC = -4): FC ≤", 1/(2^Ecoli_threshold)*-1," & q-value ≤",q_value_threshold,"<br>",
+       #                 "*H.sapiens* (theo. FC = 1): abs. FC <", (2^human_threshold)," & q-value >",q_value_threshold,"<br>",
+       #                 "*S.cerevisiea* (theo. FC = 2): abs. FC ≥", (2^yeast_threshold)," & q-value ≤",q_value_threshold,
+       #                 ""),
+       y = "PG count passing thresholds",
+       fill = "",
+       x = "",
+       tag = "")+
   guides(fill=guide_legend(ncol=1))
 
 
