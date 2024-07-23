@@ -26,7 +26,7 @@ The analysis with SpectroPipeR was performed using default parameters.
 
 <u>additional species mix plot panel + script:</u> `species_mix_analysis.R`
 
-![species mix analysis plot panel](species_mix_analysis/HYE_benchmarking_detailed_plot_panel.png){width="40%"}
+![species mix analysis plot panel](species_mix_analysis/HYE_benchmarking_detailed_plot_panel.png)
 
 
 #### exemplary protein canditdate XIC plot using SpectroPipeR
